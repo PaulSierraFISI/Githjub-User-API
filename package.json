@@ -1,0 +1,23 @@
+{
+  "name": "github-user-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulSierraFISI/Github-User-API.git"
+  },
+  "keywords": [
+    "API",
+    "GitHub"
+  ],
+  "author": "Paul Sierra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulSierraFISI/Github-User-API/issues"
+  },
+  "homepage": "https://github.com/PaulSierraFISI/Github-User-API#readme"
+}
