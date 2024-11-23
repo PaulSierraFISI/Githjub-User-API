@@ -2,6 +2,8 @@
 
 ### Descripción
 **GitHub User Activity Tracker** es una aplicación de línea de comandos (CLI) que muestra la actividad recide los últimos 90 días de un usuario de GitHub utilizando la API pública de GitHub. 
+
+### URL del proyecto: https://roadmap.sh/projects/github-user-activity
 ---
 
 ## Características
